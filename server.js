@@ -10,5 +10,5 @@ http.createServer(function(request, response){
 }).listen(port); */
 
 
-require('./connect');
+require('./insert');
     
